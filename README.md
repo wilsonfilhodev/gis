@@ -1,4 +1,4 @@
-<h3 align="center">API Rest GIS</h3>
+<h3>API Rest GIS</h3>
 
 
 ## Contents
@@ -80,7 +80,7 @@ Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ## Documentation
 
-`/swagger_api.yml`
+(swagger_api.yml)
 
 
 ## Authors
